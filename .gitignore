@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+flaskenv/
+
+# Config Files
+config.txt
+
+# Database
+*.json
+*.log
